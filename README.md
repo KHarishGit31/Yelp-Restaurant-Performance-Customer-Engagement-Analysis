@@ -70,11 +70,11 @@ Business Insights
 ---
 
 # Power BI Dashboard
-<img src="image/Overview.jpg" width="800">
+
 The final dashboard consists of **four analytical sections**:
 
 ### 1. Overview Dashboard
-
+<img src="image/Overview.jpg" width="800">
 Provides key performance indicators such as:
 
 * Average restaurant rating
@@ -85,7 +85,7 @@ Provides key performance indicators such as:
 * Success score
 
 ### 2. Restaurant Performance Analysis
-
+<img src="image/Restaurant Performance Analysis.jpg" width="800">
 Analyzes restaurant popularity and performance using:
 
 * Top restaurants by review count
@@ -93,6 +93,7 @@ Analyzes restaurant popularity and performance using:
 * Success score comparison
 
 ### 3. City Performance Analysis
+<img src="image/City Performance Analysis.jpg" width="800">
 
 Explores restaurant distribution across cities:
 
@@ -101,7 +102,7 @@ Explores restaurant distribution across cities:
 * Restaurant activity by location
 
 ### 4. Customer Engagement Analysis
-
+<img src="image/Customer Engagement Analysis.jpg" width="800">
 Examines how customers interact with restaurants through:
 
 * Reviews
