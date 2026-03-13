@@ -70,7 +70,7 @@ Business Insights
 ---
 
 # Power BI Dashboard
-![Dashboard Overview](images/overview.jpg)
+![Dashboard Overview](images/Overview.jpg)
 The final dashboard consists of **four analytical sections**:
 
 ### 1. Overview Dashboard
