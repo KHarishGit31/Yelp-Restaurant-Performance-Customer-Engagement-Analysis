@@ -1,6 +1,6 @@
 
 # Yelp Restaurant Performance & Customer Engagement Analysis
-
+<img  src="image/Overview.jpj" width="800">
 ## Project Overview
 
 This project analyzes restaurant performance and customer engagement using the Yelp dataset. The goal is to understand how customer ratings, reviews, tips, and check-ins relate to restaurant popularity and success.
@@ -39,6 +39,19 @@ Key attributes used in the analysis include:
 The original Yelp dataset contains multiple business categories. For this analysis, the dataset was **filtered to include only restaurant-related businesses** to focus specifically on restaurant performance and customer engagement.
 
 ---
+# Dataset Source
+
+Yelp Open Dataset:
+https://www.yelp.com/dataset
+
+The following Yelp dataset files were used:
+
+• business.json
+• review.json
+• tip.json
+• checkin.json
+• user.json
+
 
 # Project Workflow
 
